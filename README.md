@@ -9,9 +9,8 @@ Before you begin, make sure you have the following installed:
 
 ## Getting Started
 
-### 1. Clone the Repository
+1. Clone the Repository
 
-```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 
